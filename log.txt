@@ -1,0 +1,7 @@
+WALLET: EEnZig6Wu3SA3nq3bnM2djqmPmdubmStBeebdZaTKRPo
+AIRDROP: https://explorer.solana.com/tx/65uZc9aFLKPtRsc8nzPjWpf4BeWv96UTfdrfy4PZ8eR9WLRRrKxrNMYGqrkM7YMMnYazzLtwUCvUgUxfq9e6nNWC?cluster=devnet
+MINT ADDRESS: Bwm9iq7dAjXQGDFd9erFHbzNWjgCXXrwg3d346NfY7m2
+MINT TOKEN - Associated Token Account:  DB7U2dqyURiRgLDHjWYn5C4Z8F5UrnkLNtQv8xEDbkgy
+Mintati 10000000 To DB7U2dqyURiRgLDHjWYn5C4Z8F5UrnkLNtQv8xEDbkgy
+TRANSFER: Trasferiti 1000000 From DB7U2dqyURiRgLDHjWYn5C4Z8F5UrnkLNtQv8xEDbkgy To 8DdrsUpZNBP3omEQ6gbQmSEP47Mb366iASa7pphwEN5h 
+https://explorer.solana.com/address/8DdrsUpZNBP3omEQ6gbQmSEP47Mb366iASa7pphwEN5h?cluster=devnet
